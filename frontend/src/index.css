@@ -1,0 +1,16 @@
+/* src/index.css */
+body {
+  font-family: 'Arial', sans-serif;
+  background-color: #f4f4f4;
+}
+
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+button {
+  cursor: pointer;
+}
+
+/* Adicione seus estilos personalizados abaixo, se necessário */
