@@ -1,2 +1,34 @@
-.\backend\node_modules\
-.\frontend\cliente-app\node_modules\
+# Arquivos e diretórios locais
+node_modules/
+build/
+.env
+backend/node_modules/
+backend/build/
+backend/.env
+frontend/cliente-app/node_modules/
+frontend/cliente-app/build/
+frontend/cliente-app/.env
+
+# Arquivos de configuração
+*.env
+
+# Logs e saídas temporárias
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Arquivos temporários
+*.tmp
+
+# Arquivos de build
+*.db
+
+# Arquivos de sistema operacional
+.DS_Store
+Thumbs.db
+
+# Dependendo da sua configuração de IDE ou editor, você pode adicionar mais entradas aqui.
+# Por exemplo, para o Visual Studio Code:
+.vscode/
