@@ -2,12 +2,6 @@
 node_modules/
 build/
 .env
-backend/node_modules/
-backend/build/
-backend/.env
-frontend/cliente-app/node_modules/
-frontend/cliente-app/build/
-frontend/cliente-app/.env
 
 # Arquivos de configuração
 *.env
